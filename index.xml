@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>howsun</title>
-    <link>howsun7.github.io/</link>
+    <link>https://howsun.xyz/</link>
     <description>Recent content on howsun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Nov 2020 19:32:55 +0800</lastBuildDate>
     
-	<atom:link href="howsun7.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://howsun.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>howsun7.github.io/posts/my-first-post/</link>
+      <link>https://howsun.xyz/posts/my-first-post/</link>
       <pubDate>Sun, 29 Nov 2020 19:32:55 +0800</pubDate>
       
-      <guid>howsun7.github.io/posts/my-first-post/</guid>
+      <guid>https://howsun.xyz/posts/my-first-post/</guid>
       <description>testing123</description>
     </item>
     
