@@ -6,10 +6,20 @@
     <description>Recent content on howsun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Nov 2020 19:32:55 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 09:29:57 +0800</lastBuildDate>
     
 	<atom:link href="https://howsun.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Starting to Blog, Again</title>
+      <link>https://howsun.xyz/posts/starting-to-blog-again/</link>
+      <pubDate>Mon, 30 Nov 2020 09:29:57 +0800</pubDate>
+      
+      <guid>https://howsun.xyz/posts/starting-to-blog-again/</guid>
+      <description>This blog is not the first blog I have started. And this post is not the first blog post I have written. In fact, I have written many posts that never see the light of the day. Some of them are buried somewhere in the note or document applications, and some are hidden in my laptop&amp;rsquo;s directories as markdown files.
+If not for the imposter syndrome, fear of being imperfect, and lack of conviction I could have started a blog roughly four years ago and the time thereafter.</description>
+    </item>
     
     <item>
       <title>My First Post</title>
