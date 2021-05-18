@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://howsun.xyz/</loc>
-    <lastmod>2021-04-06T14:29:50+08:00</lastmod>
+    <loc>https://howsun.xyz/posts/changing-ones-own-mind/</loc>
+    <lastmod>2021-04-06T14:56:55+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://howsun.xyz/posts/new-project-blog-or-newsletter/</loc>
-    <lastmod>2021-04-06T14:29:50+08:00</lastmod>
+    <loc>https://howsun.xyz/</loc>
+    <lastmod>2021-04-06T14:56:55+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://howsun.xyz/posts/</loc>
+    <lastmod>2021-04-06T14:56:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://howsun.xyz/posts/new-project-blog-or-newsletter/</loc>
     <lastmod>2021-04-06T14:29:50+08:00</lastmod>
   </url>
   
